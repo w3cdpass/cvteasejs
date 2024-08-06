@@ -1,11 +1,13 @@
 {
-  "name": "cvteasejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "cvteasejs",
+    "version": "0.1.0",
+    "description": "A brief description of your npm package",
+    "main": "src/index.js",
+    "scripts": {
+        "build": "echo 'No build step defined'",
+        "start": "node src/index.js",
+        "test": "echo 'No tests specified' && exit 1"
+    },
+    "author": "w3cdpass",
+    "license": "MIT"
 }
